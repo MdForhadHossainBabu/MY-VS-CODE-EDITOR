@@ -1,0 +1,145 @@
+{
+  "editor.fontSize": 15,
+  "editor.tabSize": 1,
+  "editor.fontFamily": "Fira Code, Operator Mono",
+  "editor.fontLigatures": true,
+  "editor.wordWrap": "on",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "workbench.colorCustomizations": {
+    "editorGroupHeader.tabsBackground": "#2c2c54",
+    "activityBar.background": "#191846",
+    "sideBar.background": "#141422",
+    "minimap.background": "#141422",
+    "tab.activeBackground": "#2c2c54",
+    "tab.inactiveBackground": "#191846",
+    "terminal.border": "#2c2c54",
+    "terminal.background": "#2c2c50",
+    "statusBar.background": "#334155",
+    "scrollbarSlider.background": "#474787",
+    "scrollbarSlider.hoverBackground": "#706fd3"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ],
+    "comments": "#818cf8"
+  },
+  "editor.linkedEditing": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.hover.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "window.zoomLevel": 0.4,
+  // Live Server
+  "liveServer.settings.CustomBrowser": "microsoft-edge",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  // Live SASS Compiler
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  // VS Code Theme Customization
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
+
+  "console-ninja.toolsToEnableSupportAutomaticallyFor": {
+    "live-server-extension": true,
+    "live-preview-extension": true
+  },
+  "terminal.integrated.defaultProfile.windows": "Git terminal",
+  "terminal.integrated.fontSize": 12,
+  "diffEditor.wordWrap": "on",
+  "security.workspace.trust.untrustedFiles": "open",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 4,
+
+  // Prettier Config
+  "prettier.proseWrap": "always",
+  "prettier.singleQuote": true,
+  "prettier.arrowParens": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html,css, javascript, react , xml ]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // Screencast Mode
+  "screencastMode.onlyKeyboardShortcuts": true,
+  // "screencastMode.mouseIndicatorColor": "#",
+  "screencastMode.verticalOffset": 0,
+
+  // Enable Emmet support for JSX
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "html5": "html5",
+    "html": "HTML",
+    "css": "css"
+  },
+  "terminal.integrated.env.windows": {},
+  "console-ninja.outputMode": "In View",
+  "eslint.format.enable": true,
+  "files.autoSaveWhenNoErrors": true,
+  "auto-close-tag.activationOnLanguage": [
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (EEx)",
+    "HTML (Eex)",
+    "plist"
+  ],
+  "console-ninja.captureFunctions": true,
+  "console-ninja.lightTheme.gutterIcons": {
+    "covered": "#62b455",
+    "notCovered": "#cccccc",
+    "partiallyCovered": "#d2a032",
+    "errorSource": "#fe536a"
+  },
+  "console-ninja.featureSet": "Community",
+  "console-ninja.output.showNetworkRequests": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.editor.enablePreview": false,
+  "auto-close-tag.excludedTags": [
+    "area",
+    "base",
+    "br",
+    "col",
+    "command",
+    "embed",
+    "hr",
+    "img",
+    "input",
+    "keygen",
+    "link",
+    "meta",
+    "param",
+    "source",
+    "track",
+    "wbr"
+  ]
+}
