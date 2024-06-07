@@ -12,6 +12,6 @@ Social platform
  
 - [Instagram](https://instagram.com/yesforhad)
  
-- [Linkedin](https://linkedin/yesforhad)
+- [Linkedin](https://www.linkedin.com/in/yesforhad)
  
-- [Leet code](https://leetcode/yesforhad](https://leetcode.com/u/yesforhad/)
+- [Leet code](https://leetcode.com/u/yesforhad)
