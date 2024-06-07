@@ -6,7 +6,7 @@ Hello! there I'm Forhad Hossain. A passionate web developer. if you know that th
 Social platform
 - [Facebook](https://facebook.com/yesforhad)
  
-- [youtube](https://youtube.com/@esforhad)
+- [youtube](https://youtube.com/@yesforhad)
  
 - [Github](https://github.com/yesforhad)
  
