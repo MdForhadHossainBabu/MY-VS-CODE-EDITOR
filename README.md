@@ -14,4 +14,4 @@ Social platform
  
 - [Linkedin](https://linkedin/yesforhad)
  
-- [Leet code](https://leetcode/yesforhad)
+- [Leet code](https://leetcode/yesforhad](https://leetcode.com/u/yesforhad/)
