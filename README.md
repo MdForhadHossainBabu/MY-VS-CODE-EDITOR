@@ -5,7 +5,13 @@ Hello! there I'm Forhad Hossain. A passionate web developer. if you know that th
 
 Social platform
 - [Facebook](https://facebook.com/yesforhad)
-- [youtube](https://www.youtube.com/@yesforhad)
--[Github]
--[Linkedin]
--[Leet code]
+ 
+- [youtube](https://youtube.com/@esforhad)
+ 
+- [Github](https://github.com/yesforhad)
+ 
+- [Instagram](https://instagram.com/yesforhad)
+ 
+- [Linkedin](https://linkedin/yesforhad)
+ 
+- [Leet code](https://leetcode/yesforhad)
